@@ -1,0 +1,10 @@
+
+\.vs/
+
+aspnetcore1/obj/Debug/
+
+aspnetcore1/obj/Release/
+
+WebApNetcore1/obj/Debug/
+
+WebApNetcore1/obj/Release/

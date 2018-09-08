@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Slamerz\\source\\repos\\Learning Web Dev Udemy\\WebApNetcore1\\WebApNetcore1.csproj",
+      "projectUniqueName": "C:\\Users\\Slamerz\\source\\repos\\Learning Web Dev Udemy\\Udemy Asp.net web app\\WebApNetcore1\\WebApNetcore1.csproj",
       "projectName": "WebApNetcore1",
-      "projectPath": "C:\\Users\\Slamerz\\source\\repos\\Learning Web Dev Udemy\\WebApNetcore1\\WebApNetcore1.csproj",
+      "projectPath": "C:\\Users\\Slamerz\\source\\repos\\Learning Web Dev Udemy\\Udemy Asp.net web app\\WebApNetcore1\\WebApNetcore1.csproj",
       "packagesPath": "C:\\Users\\Slamerz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Slamerz\\source\\repos\\Learning Web Dev Udemy\\WebApNetcore1\\obj\\",
+      "outputPath": "C:\\Users\\Slamerz\\source\\repos\\Learning Web Dev Udemy\\Udemy Asp.net web app\\WebApNetcore1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
