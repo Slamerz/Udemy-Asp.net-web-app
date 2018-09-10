@@ -1,0 +1,11 @@
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\bin\Debug\netcoreapp2.1\WebApplication2 From Scratch.deps.json
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\bin\Debug\netcoreapp2.1\WebApplication2 From Scratch.runtimeconfig.json
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\bin\Debug\netcoreapp2.1\WebApplication2 From Scratch.runtimeconfig.dev.json
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\bin\Debug\netcoreapp2.1\WebApplication2 From Scratch.dll
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\obj\Debug\netcoreapp2.1\WebApplication2 From Scratch.csprojAssemblyReference.cache
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\obj\Debug\netcoreapp2.1\WebApplication2 From Scratch.csproj.CoreCompileInputs.cache
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\obj\Debug\netcoreapp2.1\WebApplication2 From Scratch.RazorAssemblyInfo.cache
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\obj\Debug\netcoreapp2.1\WebApplication2 From Scratch.RazorAssemblyInfo.cs
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\obj\Debug\netcoreapp2.1\WebApplication2 From Scratch.AssemblyInfoInputs.cache
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\obj\Debug\netcoreapp2.1\WebApplication2 From Scratch.AssemblyInfo.cs
+C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\WebApplication2 From Scratch\obj\Debug\netcoreapp2.1\WebApplication2 From Scratch.RazorTargetAssemblyInfo.cache

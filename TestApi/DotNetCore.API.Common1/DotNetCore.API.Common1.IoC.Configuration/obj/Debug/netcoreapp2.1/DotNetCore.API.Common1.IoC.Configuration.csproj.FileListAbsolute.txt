@@ -1,0 +1,16 @@
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.IoC.Configuration.deps.json
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.IoC.Configuration.dll
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.IoC.Configuration.pdb
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.dll
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.dll
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.Services.dll
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.pdb
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.Services.pdb
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.pdb
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.IoC.Configuration.csprojAssemblyReference.cache
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.IoC.Configuration.csproj.CoreCompileInputs.cache
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.IoC.Configuration.AssemblyInfoInputs.cache
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.IoC.Configuration.AssemblyInfo.cs
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.IoC.Configuration.csproj.CopyComplete
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.IoC.Configuration.dll
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.IoC.Configuration\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.IoC.Configuration.pdb

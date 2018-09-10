@@ -1,0 +1,11 @@
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.deps.json
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.runtimeconfig.json
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.runtimeconfig.dev.json
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.dll
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.pdb
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.csprojAssemblyReference.cache
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.csproj.CoreCompileInputs.cache
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.AssemblyInfoInputs.cache
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.AssemblyInfo.cs
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.dll
+c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.Common\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.Common.pdb
