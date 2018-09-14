@@ -1,9 +1,0 @@
-c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.DataContracts\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.deps.json
-c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.DataContracts\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.dll
-c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.DataContracts\bin\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.pdb
-c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.DataContracts\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.csprojAssemblyReference.cache
-c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.DataContracts\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.csproj.CoreCompileInputs.cache
-c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.DataContracts\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.AssemblyInfoInputs.cache
-c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.DataContracts\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.AssemblyInfo.cs
-c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.DataContracts\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.dll
-c:\users\dreamsketcher\documents\visual studio 2017\Projects\TestApi\DotNetCore.API.Common1\DotNetCore.API.Common1.API.DataContracts\obj\Debug\netcoreapp2.1\DotNetCore.API.Common1.API.DataContracts.pdb
