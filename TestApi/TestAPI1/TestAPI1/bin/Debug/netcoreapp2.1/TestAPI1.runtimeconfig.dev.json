@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\dreamsketcher\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\dreamsketcher\\.nuget\\packages",
+      "C:\\Users\\Slamerz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Slamerz\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

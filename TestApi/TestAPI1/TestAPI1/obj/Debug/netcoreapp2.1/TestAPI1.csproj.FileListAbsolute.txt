@@ -12,3 +12,18 @@ C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-a
 C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.RazorTargetAssemblyInfo.cache
 C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.dll
 C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Udemy-Asp.net-web-app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.pdb
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\bin\Debug\netcoreapp2.1\TestAPI1.deps.json
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\bin\Debug\netcoreapp2.1\TestAPI1.runtimeconfig.json
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\bin\Debug\netcoreapp2.1\TestAPI1.runtimeconfig.dev.json
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\bin\Debug\netcoreapp2.1\TestAPI1.dll
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\bin\Debug\netcoreapp2.1\TestAPI1.pdb
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.csprojAssemblyReference.cache
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.csproj.CoreCompileInputs.cache
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.RazorAssemblyInfo.cache
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.RazorAssemblyInfo.cs
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.AssemblyInfoInputs.cache
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.AssemblyInfo.cs
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.dll
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.pdb
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

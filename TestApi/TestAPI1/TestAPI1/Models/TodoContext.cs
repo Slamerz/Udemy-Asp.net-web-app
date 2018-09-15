@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace TestAPI1.Models
 {
-    public class TodoContext: DbContext
+    /*public class TodoContext: DbContext
     {
         public TodoContext(DbContextOptions<TodoContext> options) : base(options)
         {
@@ -14,5 +14,5 @@ namespace TestAPI1.Models
         }
 
         public DbSet<TodoItem> TodoItems { get; set; }
-    }
+    }*/
 }
