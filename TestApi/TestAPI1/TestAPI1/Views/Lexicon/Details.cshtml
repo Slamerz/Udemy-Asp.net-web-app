@@ -1,0 +1,54 @@
+﻿@model TestAPI1.Models.Lexicon
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Lexicon</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Adjective)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Adjective)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Definition)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Definition)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.See1)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.See1)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.See2)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.See2)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.See3)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.See3)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

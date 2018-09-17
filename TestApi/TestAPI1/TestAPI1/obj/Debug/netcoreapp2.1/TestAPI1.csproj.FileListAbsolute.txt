@@ -27,3 +27,17 @@ C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestA
 C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.dll
 C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.pdb
 C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\bin\Debug\netcoreapp2.1\TestAPI1.Views.dll
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\bin\Debug\netcoreapp2.1\TestAPI1.Views.pdb
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.TagHelpers.input.cache
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.TagHelpers.output.cache
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.RazorCoreGenerate.cache
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.RazorTargetAssemblyInfo.cs
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.Views.pdb
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\TestAPI1.csproj.CopyComplete
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\Razor\Views\Lexicon\Create.g.cshtml.cs
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\Razor\Views\Lexicon\Delete.g.cshtml.cs
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\Razor\Views\Lexicon\Details.g.cshtml.cs
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\Razor\Views\Lexicon\Edit.g.cshtml.cs
+C:\Users\Slamerz\source\repos\Learning Web Dev Udemy\Udemy Asp.net web app\TestApi\TestAPI1\TestAPI1\obj\Debug\netcoreapp2.1\Razor\Views\Lexicon\Index.g.cshtml.cs

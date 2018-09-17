@@ -6721,7 +6721,7 @@
       ]
     },
     "Microsoft.Extensions.PlatformAbstractions/1.0.0": {
-      "sha512": "zyjUzrOmuevOAJpIo3Mt5GmpALVYCVdLZ99keMbmCxxgQH7oxzU58kGHzE6hAgYEiWsdfMJLjVR7r+vSmaJmtg==",
+      "sha512": "ltDc8q9tVgrUMpjuDSwWk4jKUL/Bzi1bfplDHj9NlIjDxVqP/LZD/9gC3joak2jxccr6yXjiTg/i4/kNTL5QMQ==",
       "type": "package",
       "path": "microsoft.extensions.platformabstractions/1.0.0",
       "files": [
@@ -8425,7 +8425,7 @@
       ]
     },
     "System.Diagnostics.Contracts/4.3.0": {
-      "sha512": "eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
+      "sha512": "mMZwBcVV0gC7lGVP1qzSYqDjs/cecJvRPAaUcyuv08Ha9dhvg2HRae4QFAFGbA7rctJ/Kfa2rLhVUTZAoLhhtw==",
       "type": "package",
       "path": "system.diagnostics.contracts/4.3.0",
       "files": [
@@ -8668,7 +8668,7 @@
       ]
     },
     "System.Diagnostics.StackTrace/4.3.0": {
-      "sha512": "BiHg0vgtd35/DM9jvtaC1eKRpWZxr0gcQd643ABG7GnvSlf5pOkY2uyd42mMOJoOmKvnpNj0F4tuoS1pacTwYw==",
+      "sha512": "/ibFgxV0BDKqyDZkJ8iFW9ntOqINxyOSmnmuSb/XUQ3R4wjjMZr5Be1zGeg0pcGgWGXCDyUDzm5zUyHwCrp5qQ==",
       "type": "package",
       "path": "system.diagnostics.stacktrace/4.3.0",
       "files": [
@@ -12347,23 +12347,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dreamsketcher\\.nuget\\packages\\": {},
+    "C:\\Users\\Slamerz\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dreamsketcher\\Documents\\Visual Studio 2017\\Projects\\Udemy-Asp.net-web-app\\WebApplication2 From Scratch\\WebApplication2 From Scratch.csproj",
+      "projectUniqueName": "C:\\Users\\Slamerz\\source\\repos\\Learning Web Dev Udemy\\Udemy Asp.net web app\\WebApplication2 From Scratch\\WebApplication2 From Scratch.csproj",
       "projectName": "WebApplication2 From Scratch",
-      "projectPath": "C:\\Users\\dreamsketcher\\Documents\\Visual Studio 2017\\Projects\\Udemy-Asp.net-web-app\\WebApplication2 From Scratch\\WebApplication2 From Scratch.csproj",
-      "packagesPath": "C:\\Users\\dreamsketcher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dreamsketcher\\Documents\\Visual Studio 2017\\Projects\\Udemy-Asp.net-web-app\\WebApplication2 From Scratch\\obj\\",
+      "projectPath": "C:\\Users\\Slamerz\\source\\repos\\Learning Web Dev Udemy\\Udemy Asp.net web app\\WebApplication2 From Scratch\\WebApplication2 From Scratch.csproj",
+      "packagesPath": "C:\\Users\\Slamerz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Slamerz\\source\\repos\\Learning Web Dev Udemy\\Udemy Asp.net web app\\WebApplication2 From Scratch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dreamsketcher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Slamerz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12373,8 +12373,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://www.myget.org/F/discord-net/api/v3/index.json": {},
-        "https://www.myget.org/F/imagesharp/api/v3/index.json": {},
-        "https://www.myget.org/F/kwoth/api/v3/index.json": {}
+        "https://www.myget.org/F/imagesharp/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
