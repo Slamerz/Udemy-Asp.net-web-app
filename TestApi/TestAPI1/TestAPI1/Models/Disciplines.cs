@@ -16,7 +16,19 @@ namespace TestAPI1.Models
 
         public DisciplineCharacteristic Characteristic {get; set;}
         public ICollection<DisciplinePowers> Powers { get; set; }
+
+        public ICollection<Clans> Clans { get; set; }
+        public ICollection<DisciplineClanDescription> ClanDescriptions { get; set; }
     }
+
+    public class DisciplineClanDescription
+    {
+        public long Id { get; set; }
+        public string Description { get; set; }
+        public Disciplines Discipline { get; set; }
+        public Clans Clan { get; set; }
+    }
+
     public class DisciplineCharacteristic
     {
         public long Id { get; set; }
