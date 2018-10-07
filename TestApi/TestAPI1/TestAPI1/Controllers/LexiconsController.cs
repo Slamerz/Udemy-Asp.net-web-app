@@ -9,22 +9,22 @@ using TestAPI1.Models;
 
 namespace TestAPI1.Controllers
 {
-    public class LexiconController : Controller
+    public class LexiconsController : Controller
     {
         private readonly LexiconContext _context;
 
-        public LexiconController(LexiconContext context)
+        public LexiconsController(LexiconContext context)
         {
             _context = context;
         }
 
-        // GET: Lexicon
+        // GET: Lexicons
         public async Task<IActionResult> Index()
         {
             return View(await _context.Lexicons.ToListAsync());
         }
 
-        // GET: Lexicon/Details/5
+        // GET: Lexicons/Details/5
         public async Task<IActionResult> Details(long? id)
         {
             if (id == null)
@@ -42,13 +42,13 @@ namespace TestAPI1.Controllers
             return View(lexicon);
         }
 
-        // GET: Lexicon/Create
+        // GET: Lexicons/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Lexicon/Create
+        // POST: Lexicons/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -64,7 +64,7 @@ namespace TestAPI1.Controllers
             return View(lexicon);
         }
 
-        // GET: Lexicon/Edit/5
+        // GET: Lexicons/Edit/5
         public async Task<IActionResult> Edit(long? id)
         {
             if (id == null)
@@ -80,7 +80,7 @@ namespace TestAPI1.Controllers
             return View(lexicon);
         }
 
-        // POST: Lexicon/Edit/5
+        // POST: Lexicons/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -115,7 +115,7 @@ namespace TestAPI1.Controllers
             return View(lexicon);
         }
 
-        // GET: Lexicon/Delete/5
+        // GET: Lexicons/Delete/5
         public async Task<IActionResult> Delete(long? id)
         {
             if (id == null)
@@ -133,7 +133,7 @@ namespace TestAPI1.Controllers
             return View(lexicon);
         }
 
-        // POST: Lexicon/Delete/5
+        // POST: Lexicons/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(long id)

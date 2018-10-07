@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Reflection.PortableExecutable;
 using System.Threading.Tasks;
@@ -10,35 +11,29 @@ namespace TestAPI1.Models
     {
         public long Id { get; set; }
         public string Name { get; set; }
-        public List<string> Nicknames { get; set; }
+        public List<DisciplineNicknames> Nicknames { get; set; }
         public string Flavor { get; set; }
         public string Description { get; set; }
 
-        public DisciplineCharacteristic Characteristic {get; set;}
-        public ICollection<DisciplinePowers> Powers { get; set; }
+        public string CharacteristicsDescription { get; set; }
+        public Attribute CharacteristicsType { get; set; }
+        public string CharacteristicsThreat { get; set; }
+        public string CharacteristicsResonance { get; set; }
 
-        public ICollection<Clans> Clans { get; set; }
-        public ICollection<DisciplineClanDescription> ClanDescriptions { get; set; }
+
+
+        public ICollection<ClanDisciplines> Clans { get; set; }
+        public List<DisciplinePowers> Powers { get; set; }
     }
 
-    public class DisciplineClanDescription
+    public class DisciplineNicknames
     {
         public long Id { get; set; }
-        public string Description { get; set; }
-        public Disciplines Discipline { get; set; }
-        public Clans Clan { get; set; }
-    }
-
-    public class DisciplineCharacteristic
-    {
-        public long Id { get; set; }
-        public string Description { get; set; }
-        public Attribute Type { get; set; }
-        public string Threat { get; set; }
-        public string Resonance { get; set; }
+        public string Name { get; set; }
+        public int DisciplineId { get; set; }
         public Disciplines Discipline { get; set; }
     }
-
+ 
     public class DisciplinePowers
     {
         public long Id { get; set; }
@@ -49,6 +44,7 @@ namespace TestAPI1.Models
         public string System { get; set; }
         public string Duration { get; set; }
         public int Level { get; set; }
+        public int DisciplineId { get; set; }
         public Disciplines Discipline { get; set; }
     }
 }
